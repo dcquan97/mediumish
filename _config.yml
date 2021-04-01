@@ -21,6 +21,13 @@ authors:
     email: dcqbean@gmail.com
     web: https://dcqstudio.cf/
     description: "Dev Ruby on rails quèn, chuyên làm website và tools dạo."
+  Andy:
+    name: Andy Phạm
+    display_name: Thịt Luộc
+    avatar: 'assets/images/avt-andy.jpg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    web: https://www.facebook.com/thitluoc20
+    description: "Từng là admin của group Maclife và Đồng Bọn."
 # Plugins
 plugins:
   - jekyll-paginate

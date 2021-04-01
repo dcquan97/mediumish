@@ -8,6 +8,7 @@ source "http://rubygems.org"
 #
 
 # If you have any plugins, put them here!
+gem "jekyll", "~> 3.8.5"
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 group :jekyll_plugins do
     gem 'jekyll-feed'

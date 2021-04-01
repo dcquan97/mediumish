@@ -723,6 +723,11 @@ img {
     max-width: 100%;
 }
 
+.img-30px {
+    max-width: 30px;
+}
+
+
 .bottompagination span.navigation {
     display: block;
     font-size: 0.93rem;

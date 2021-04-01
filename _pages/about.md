@@ -24,11 +24,11 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>Góp ý chỉnh sửa và cải thiện nội dung</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Cảm ơn sự hỗ trợ của bạn! Ý kiến đóng góp của bạn giúp tôi duy trì và cải thiện.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.facebook.com/dcquan2910/" class="btn btn-primary"><i class="fab fa-facebook"></i> Facebook</a> <a target="_blank" href="https://www.instagram.com/dcqbean/" class="btn btn-danger"><i class="fab fa-instagram"></i> Instagram</a>
 
 </div>
 </div>

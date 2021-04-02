@@ -23,11 +23,11 @@ authors:
     description: "Dev Ruby on rails quèn, chuyên làm website và tools dạo."
   Andy:
     name: Andy Phạm
-    display_name: Thịt Luộc
+    display_name: Andy Pham (Thịt luộc)
     avatar: 'assets/images/avt-andy.jpg'
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     web: https://www.facebook.com/thitluoc20
-    description: "Từng là admin của group Maclife và Đồng Bọn."
+    description: "Từng là admin của group Maclife và Đồng Bọn. Hiện đang là admin của group Hội Macbook Việt và Chia sẻ và Hỗ trợ Phần mềm Máy tính"
   Tuan:
     name: Vũ Nguyễn Anh Tuấn
     display_name: Vũ Nguyễn Anh Tuấn
@@ -35,6 +35,13 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     web: https://www.facebook.com/maclife.vn
     description: "Admin của group Maclife và Đồng Bọn."
+  macviet:
+    name: Hội Macbook Việt
+    display_name: Hội Macbook Việt
+    avatar: 'assets/images/hoi-macbook-viet.jpg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    web: https://www.facebook.com/groups/hoimacbookviet
+    description: "Group Hội Macbook Việt"
 # Plugins
 plugins:
   - jekyll-paginate

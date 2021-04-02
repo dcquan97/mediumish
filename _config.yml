@@ -28,6 +28,13 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     web: https://www.facebook.com/thitluoc20
     description: "Từng là admin của group Maclife và Đồng Bọn."
+  Tuan:
+    name: Vũ Nguyễn Anh Tuấn
+    display_name: Vũ Nguyễn Anh Tuấn
+    avatar: 'assets/images/avt-nvat.jpg'
+    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    web: https://www.facebook.com/maclife.vn
+    description: "Admin của group Maclife và Đồng Bọn."
 # Plugins
 plugins:
   - jekyll-paginate

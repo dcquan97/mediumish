@@ -18,8 +18,6 @@
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 
-</head>
-
 {% if jekyll.environment == 'production' %}
 <!-- change your GA id in _config.yml -->
 <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -31,7 +29,10 @@
 
   gtag('config', '{{ site.google_analytics }}');
 </script>
+
 {% endif %}
+
+</head>
 
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{layout}}">

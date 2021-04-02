@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mục đích chính là để kịa mấy cha nội sài Intel
+title: Giới thiệu
 permalink: /about
 comments: true
 ---
@@ -8,7 +8,7 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Trang web này được xây dựng nhằm mục đính kịa mấy cha nội sài intel trong group Maclife và Đồng Bọn là phụ. Để tổng hợp các bài viết của a Andy Pham (Thịt luộc) là chính.</p>
+<p>Trang web này được xây dựng nhằm mục đính tổng hợp các tin tức và chia sẽ kiến thức về MacOS.</p>
 
 
 <div class="sticky-top sticky-top-80">

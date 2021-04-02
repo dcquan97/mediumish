@@ -14,7 +14,11 @@ rating: 5
 
 Hoài link cho ai cần: [Link Fshare](https://bit.ly/39sQjEO)
 
-Update sub xịn:
+Update SUB xịn:
 https://subscene.com/.../godzilla-vs-kong/vietnamese/2434393
+
+Phim 2 con khỉ đánh nhau gì đó. Mình giảm chất lượng xuống còn Full HD, Mux sẵn SUB vô thành file MP4 cho anh em xem trên iPhone, máy cấu hình thấp thấp khỏi bị giựt
+
+Update Link giảm chất lượng + add sẵn SUB : [Link Fshare](https://bit.ly/2PhB5vL)
 
 nguồn: [Vũ Nguyễn Anh Tuấn](https://www.facebook.com/maclife.vn/posts/4583720751644502)

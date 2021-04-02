@@ -28,4 +28,4 @@ Windows and macOS: Version 45.0
   - Trên macOS, tên ứng dụng đã được đổi thành Google Drive.app. Không có thay đổi tên ứng dụng nào trên Windows.
 - Sửa lỗi bổ sung và cải thiện hiệu suất.
 
-nguồn: [https://support.google.com/a/answer/7577057?hl=en](https://support.google.com/a/answer/7577057?hl=en)
+***Nguồn:*** [https://support.google.com/a/answer/7577057?hl=en](https://support.google.com/a/answer/7577057?hl=en)

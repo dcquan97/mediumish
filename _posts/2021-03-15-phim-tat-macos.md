@@ -2,7 +2,7 @@
 layout: post
 title: "Tổng hợp một số mẹo khi sử dụng hệ điều hành MacOS"
 author: macviet
-categories: [ MacOS, APPLE, Hướng dẫn ]
+categories: [ MacOS, Hội Macbook Việt, APPLE, Hướng dẫn ]
 image: assets/images/mac-os.jpg
 featured: true
 hidden: true

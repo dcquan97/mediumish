@@ -28,6 +28,9 @@
   gtag('config', '{{ site.google_analytics }}');
 </script>
 
+{% if jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
 
 </head>
 {% if jekyll.environment == 'production' %}

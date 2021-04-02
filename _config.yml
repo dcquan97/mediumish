@@ -1,10 +1,10 @@
 # Site
-name: "Intel < M1"
+name: "Backup bài post trong group Maclife"
 title: "Intel < M1"
-description: "Người chơi hệ chấp quạt. Chấp luôn cả Pin."
+description: "Group Maclife và Đồng bọn được tạo bởi Maclife.vn. Với phương châm chia sẻ, hỗ trợ người dùng Mac. Group này để tập hợp những người có cùng một đam mê với macOS, nơi các bạn có thể chia sẻ kinh nghiệm cũng như hỗ trợ nhau trong quá trình sử dụng máy Mac của mình."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: https://hidb.ml
+baseurl:
 google_analytics: 'UA-46278016-1'
 disqus: 'hidb-ml'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'

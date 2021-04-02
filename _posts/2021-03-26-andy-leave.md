@@ -1,13 +1,12 @@
 ---
 layout: post
 title:  "Lời từ biệt Group Maclife và Đồng Bọn của admin Andy Phạm"
-author: DcQ
+author: Andy
 categories: [ Thitluoc, maclife, db&ml ]
 tags: [thitluoc]
 image: assets/images/andy-1.jpg
 featured: true
 hidden: true
-rating: 4.5
 ---
 
 #### Lời từ biệt

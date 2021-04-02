@@ -7,7 +7,7 @@ tags: [thitluoc, dundit]
 image: assets/images/andy-2.jpg
 featured: true
 hidden: true
-rating: 4.5
+rating: 5
 ---
 
 Anh em đăng bài nhờ trợ giúp, bao giờ cũng muốn bài viết của mình được tương tác nhiều nhất để lan tỏa đến người biết lỗi đó. Nhưng lại lười còm vào vào bài viết người khác để đủn đít bài viết đó lên.

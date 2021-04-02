@@ -4,8 +4,7 @@ title:  "Google Drive dành cho M1 sẽ ra mắt vào tháng 4 năm 2021."
 author: DcQ
 categories: [ Google Drive, APPLE SILICON, Google ]
 image: assets/images/google-driver.png
-featured: true
-hidden: true
+toc: true
 rating: 4.5
 ---
 

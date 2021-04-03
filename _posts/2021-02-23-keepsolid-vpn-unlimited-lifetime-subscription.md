@@ -5,8 +5,7 @@ author: Andy
 categories: [ Thitluoc, Hội Macbook Việt, VPN ]
 tags: [thitluoc, share]
 image: assets/images/keepsolid-vpn.jpg
-featured: true
-hidden: true
+toc: true
 rating: 5
 ---
 

@@ -4,8 +4,7 @@ title: "Tổng hợp một số mẹo khi sử dụng hệ điều hành MacOS"
 author: macviet
 categories: [ MacOS, Hội Macbook Việt, APPLE, Hướng dẫn ]
 image: assets/images/mac-os.jpg
-featured: true
-hidden: true
+toc: true
 rating: 4.5
 ---
 

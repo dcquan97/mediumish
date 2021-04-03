@@ -5,8 +5,7 @@ author: Tuan
 categories: [ share, maclife, db&ml, phim ]
 tags: [kong, godzilla]
 image: assets/images/kong_godzilla.jpg
-featured: true
-hidden: true
+toc: true
 rating: 5
 ---
 

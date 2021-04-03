@@ -5,8 +5,7 @@ author: Andy
 categories: [ Thitluoc, Macbook, Hướng dẫn ]
 tags: [thitluoc, sleep]
 image: assets/images/loi-sleep-macbook.jpeg
-featured: true
-hidden: true
+toc: true
 rating: 4
 ---
 

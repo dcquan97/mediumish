@@ -5,8 +5,7 @@ author: Andy
 categories: [ Thitluoc, Hội Macbook Việt, APPLE, M1 ]
 tags: [thitluoc, silicon, m1]
 image: assets/images/app-native-m1.jpg
-featured: true
-hidden: true
+toc: true
 rating: 5
 ---
 

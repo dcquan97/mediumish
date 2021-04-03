@@ -5,8 +5,7 @@ author: Andy
 categories: [ Thitluoc, maclife, db&ml ]
 tags: [thitluoc]
 image: assets/images/andy-1.jpg
-featured: true
-hidden: true
+toc: true
 ---
 
 #### Lời từ biệt

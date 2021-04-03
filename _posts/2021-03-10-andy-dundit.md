@@ -5,8 +5,7 @@ author: Andy
 categories: [ Thitluoc, maclife, db&ml ]
 tags: [thitluoc, dundit]
 image: assets/images/andy-2.jpg
-featured: true
-hidden: true
+toc: true
 rating: 5
 ---
 

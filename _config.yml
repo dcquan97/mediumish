@@ -2,8 +2,8 @@
 name: "News MacOS"
 title: "News MacOS"
 description: "Tổng hợp các bài viết và tin tức về MacOS"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/hidb.png'
+favicon: 'assets/images/hidb.png'
 url: https://hidb.ml
 baseurl:
 google_analytics: 'G-ENFS0D4K17'

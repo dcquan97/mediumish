@@ -5,7 +5,8 @@ author: Tuan
 categories: [ Adobe photoshop, Macbook, APPLE SILICON, Adobe, db&ml ]
 tags: [Maclife, crack, photoshop]
 image: assets/images/chip-apple-M1.jpg
-toc: true
+featured: true
+hidden: true
 rating: 4.5
 ---
 

@@ -9,8 +9,8 @@ toc: true
 rating: 4.5
 ---
 
-**Bài viết này được chia sẽ bởi Maclife.vn**
+### Bài viết này được chia sẽ bởi Maclife.vn
 
-### Thông tin về phần mềm và cách "thuốc" xem tại: [Maclife.vn](https://maclife.vn/huong-dan-thuoc-photoshop-2021-ban-chay-native-tren-mac-silicon.html)
+**Thông tin về phần mềm và cách "thuốc" xem tại: [Đây](https://maclife.vn/huong-dan-thuoc-photoshop-2021-ban-chay-native-tren-mac-silicon.html)**
 
 ***Nguồn:*** [Maclife.vn](https://maclife.vn/huong-dan-thuoc-photoshop-2021-ban-chay-native-tren-mac-silicon.html)

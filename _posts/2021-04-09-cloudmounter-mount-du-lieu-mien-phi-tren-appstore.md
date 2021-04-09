@@ -2,8 +2,8 @@
 layout: post
 title:  "CloudMounter – Mount dữ liệu các dịch vụ Cloud miễn phí trên AppStore"
 author: Andy
-categories: [ Thitluoc, Macbook, Thitluoc, CloudMounter ]
-tags: [Maclife, thitluoc]
+categories: [ Thitluoc, Macbook, CloudMounter ]
+tags: [Macbook, thitluoc]
 image: assets/images/CloudMounter.jpg
 featured: true
 hidden: true

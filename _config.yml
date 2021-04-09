@@ -43,6 +43,13 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     web: https://www.facebook.com/groups/hoimacbookviet
     description: "Group Hội Macbook Việt"
+  maclife:
+    name: Maclife và Đồng Bọn
+    display_name: Maclife và Đồng Bọn
+    avatar: 'assets/images/avata_maclife.jpg'
+    web: https://www.facebook.com/groups/maclife.vn
+    description: "Group tạo bởi Maclife.vn. Với phương châm chia sẻ, hỗ trợ người dùng Mac. Group này để tập hợp những người có cùng một đam mê với macOS, nơi các bạn có thể chia sẻ kinh nghiệm cũng như hỗ trợ nhau trong quá trình sử dụng máy Mac của mình."
+
 # Plugins
 plugins:
   - jekyll-paginate

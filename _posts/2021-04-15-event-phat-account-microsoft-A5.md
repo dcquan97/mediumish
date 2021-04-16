@@ -38,6 +38,6 @@ rating: 5
 
   - Các bạn khi trúng giải, cố gắng inbox gửi chụp màn hình đầy đủ như mình đã thông báo, tránh trường hợp mình phải yêu cầu bổ sung, mình không ngại làm việc đó, nhưng trong lúc đợi bạn đó phản hồi, mình phải chuyển sang bạn tiếp theo và như lần trước, rất nhiều người vì chuyện đó mà đang từ đầu hàng bị tụt xuống cuối hàng (đấy là cách messenger vận hành, mình không cố ý)
 
-***Mong anh em hiểu đây không phải luật lệ gì cả, chỉ là lưu ý khiến việc cấp phát nhanh hơn, tránh anh em phải chờ đợi. Nếu anh em nào không đọc cũng... không sao 😁***
+***Mong anh em hiểu đây không phải luật lệ gì cả, chỉ là lưu ý khiến việc cấp phát nhanh hơn, tránh anh em phải chờ đợi. Nếu anh em nào không đọc cũng... không sao*** 😁
 
 ***Nguồn:*** [CSHT (Chia sẻ - Hỗ trợ)](https://www.facebook.com/groups/alwayontop/)

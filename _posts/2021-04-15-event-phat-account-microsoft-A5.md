@@ -4,7 +4,7 @@ title:  "Game Đồng Đội cấp phát Onedrive A5 sẽ được tổ chức t
 author: Andy
 categories: [ CS-HT, Onedrive, Office 365, Thitluoc ]
 tags: [thitluoc, game]
-image: assets/images/2021-04-16-phan-mem-xem-phim-tu-dong-tim-phu-de/omniplayer.jpg
+image: assets/images/a5.jpeg
 featured: true
 hidden: true
 rating: 5

@@ -5,8 +5,7 @@ author: maclife
 categories: [ Maclife, Macbook, Giveaway, db&ml ]
 tags: [Maclife, maclifegiveaway]
 image: assets/images/avata_maclife.jpg
-featured: true
-hidden: true
+toc: true
 rating: 4.5
 ---
 

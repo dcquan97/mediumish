@@ -5,8 +5,7 @@ author: Andy
 categories: [ CS-HT, Onedrive, Office 365, Thitluoc ]
 tags: [thitluoc, game]
 image: assets/images/a5.jpeg
-featured: true
-hidden: true
+toc: true
 rating: 5
 ---
 

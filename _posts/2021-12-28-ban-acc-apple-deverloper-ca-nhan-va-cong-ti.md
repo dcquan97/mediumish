@@ -14,4 +14,6 @@ rating: 5
 
 **Hiện tại mình chỉ đăng ký được tài khoản Apple Developer Việt Nam, còn các nước khác hiện tại mình chưa đăng ký được, vì vậy nếu anh em nào cần tài khoản Apple Developer Việt Nam để úp apps, game thì có thể liên hệ mình.**
 
-***Liên hệ mình qua fb:*** [Tại đây](https://www.facebook.com/dcquan2910/)
+**Mình có nhận up app mồi nếu các bạn có nhu cầu.**
+
+***Liên hệ mình qua FB:*** [Tại đây](https://www.facebook.com/dcquan2910/)
